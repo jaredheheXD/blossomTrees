@@ -1,0 +1,148 @@
+
+body{
+    overflow-x: hidden;
+}
+a {
+    color: #313131;
+    font-family: 'Lato';
+    text-decoration: none;
+    font-size: medium;
+}
+
+.bg1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.head{
+    font-size: 0.8vw;
+}
+
+.head:hover{
+    text-decoration: underline;
+}
+
+.table-header{
+    width: 100%;
+    text-align: center;
+}
+.imr{
+    font-size: 0.8vw;
+    text-align: center;
+    color: white;
+    background-color: indigo;
+    border: 2px solid indigo;
+    border-radius: 25px;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+.imr2{
+    font-size: 1.2vw;
+    border: 2px solid;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: indigo;
+    border: 2px solid indigo;
+    border-radius: 10px;
+    color: white;
+    transition: 0.2s;
+}
+
+.imr:hover, .imr2:hover{
+    color: indigo;
+    background: rgba(255, 255, 255, 0.0);
+    transition: 0.2s;
+}
+
+.hiw{
+    font-size: 1.2vw;
+    color: #313131;
+    border: 2px solid #313131;
+    padding: 8px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-color: #313131;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.hiw:hover{
+    color: white;
+    border-color: rgba(255, 255, 255, 0.0);
+    background-color: #313131;
+    transition: 0.2s;
+}
+
+.exbu{
+    font-family: 'Lato';
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 2px solid indigo;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.exbu:hover{
+    background-color: rgba(255, 255, 255, 0.0);
+    color: indigo;
+    transition: 0.2s;
+}
+
+.freecon{
+    text-align: center;
+    color: white;
+    font-size: 1.6vw;
+    background-color: indigo;
+    border: 2px solid indigo;
+    border-radius: 15px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: 0.2s;
+}
+
+.gts{
+    text-align: center;
+    color: indigo;
+    font-size: 1.6vw;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: 0.2s;
+}           
+
+.freecon{
+    text-align: center;
+    color: white;
+    font-size: 1.6vw;
+    background-color: indigo;
+    border: 2px solid indigo;
+    border-radius: 10px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: 0.2s;
+}
+
+.freecon:hover{
+    color: indigo;
+    background-color: rgba(255, 255, 255, 0.0);
+    transition: 0.2s;
+}
+
+.gts:hover{
+    color: white;
+    background-color: indigo;
+    border-color: indigo;
+    transition: 0.2s;
+}
