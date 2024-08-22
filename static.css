@@ -4,7 +4,7 @@ body{
 }
 a {
     color: #313131;
-    font-family: 'Lato';
+    font-family: 'Quicksand';
     text-decoration: none;
     font-size: medium;
 }
@@ -79,7 +79,7 @@ a {
 
 .exbu{
     font-size: 1vw;
-    font-family: 'Lato';
+    font-family: 'Quicksand';
     background-color: indigo;
     color: white;
     padding: 10px;
